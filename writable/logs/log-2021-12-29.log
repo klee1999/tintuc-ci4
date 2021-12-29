@@ -181,3 +181,33 @@ CRITICAL - 2021-12-29 02:41:44 --> Invalid file: pages/.$page
 #5 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
 #6 E:\XAMPP\htdocs\tintuc-ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
 #7 {main}
+CRITICAL - 2021-12-29 02:43:57 --> Invalid file: pages/.$page
+#0 E:\XAMPP\htdocs\tintuc-ci4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/.$page')
+#1 E:\XAMPP\htdocs\tintuc-ci4\system\Common.php(1097): CodeIgniter\View\View->render('pages/.$page', Array, true)
+#2 E:\XAMPP\htdocs\tintuc-ci4\app\Controllers\Pages.php(23): view('pages/.$page')
+#3 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(824): App\Controllers\Pages->showme()
+#4 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#5 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\XAMPP\htdocs\tintuc-ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-29 03:05:03 --> is_file() expects exactly 1 argument, 2 given
+#0 E:\XAMPP\htdocs\tintuc-ci4\app\Controllers\Pages.php(15): is_file('E:\\XAMPP\\htdocs...', 'home.php')
+#1 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(824): App\Controllers\Pages->showme()
+#2 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#3 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\XAMPP\htdocs\tintuc-ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-29 03:07:04 --> is_file() expects exactly 1 argument, 2 given
+#0 E:\XAMPP\htdocs\tintuc-ci4\app\Controllers\Pages.php(15): is_file('E:\\XAMPP\\htdocs...', 'home.php')
+#1 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(824): App\Controllers\Pages->showme()
+#2 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#3 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\XAMPP\htdocs\tintuc-ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-29 03:07:31 --> is_file() expects exactly 1 argument, 2 given
+#0 E:\XAMPP\htdocs\tintuc-ci4\app\Controllers\Pages.php(15): is_file('E:\\XAMPP\\htdocs...', 'home.php')
+#1 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(824): App\Controllers\Pages->showme()
+#2 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#3 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\XAMPP\htdocs\tintuc-ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

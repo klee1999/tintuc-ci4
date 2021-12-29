@@ -20,7 +20,7 @@ class Pages extends BaseController
         echo view('include/header'); 
         echo view('include/sidebar');
        
-        echo view('pages/.$page');
+        echo view('pages/'.$page);
         echo view('include/footer');
     }
 

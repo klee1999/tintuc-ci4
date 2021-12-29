@@ -211,3 +211,39 @@ CRITICAL - 2021-12-29 03:07:31 --> is_file() expects exactly 1 argument, 2 given
 #3 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
 #4 E:\XAMPP\htdocs\tintuc-ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
 #5 {main}
+CRITICAL - 2021-12-29 03:28:02 --> Invalid file: pages/aubout.php
+#0 E:\XAMPP\htdocs\tintuc-ci4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/aubout.ph...')
+#1 E:\XAMPP\htdocs\tintuc-ci4\system\Common.php(1097): CodeIgniter\View\View->render('pages/aubout', Array, true)
+#2 E:\XAMPP\htdocs\tintuc-ci4\app\Controllers\Pages.php(23): view('pages/aubout')
+#3 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(824): App\Controllers\Pages->showme('aubout')
+#4 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#5 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\XAMPP\htdocs\tintuc-ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-29 03:28:06 --> Invalid file: pages/about.php
+#0 E:\XAMPP\htdocs\tintuc-ci4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/about.php')
+#1 E:\XAMPP\htdocs\tintuc-ci4\system\Common.php(1097): CodeIgniter\View\View->render('pages/about', Array, true)
+#2 E:\XAMPP\htdocs\tintuc-ci4\app\Controllers\Pages.php(23): view('pages/about')
+#3 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(824): App\Controllers\Pages->showme('about')
+#4 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#5 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\XAMPP\htdocs\tintuc-ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-29 03:32:22 --> Invalid file: pages/pages.php
+#0 E:\XAMPP\htdocs\tintuc-ci4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/pages.php')
+#1 E:\XAMPP\htdocs\tintuc-ci4\system\Common.php(1097): CodeIgniter\View\View->render('pages/pages', Array, true)
+#2 E:\XAMPP\htdocs\tintuc-ci4\app\Controllers\Pages.php(23): view('pages/pages')
+#3 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(824): App\Controllers\Pages->showme('pages', 'showme', 'about')
+#4 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#5 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\XAMPP\htdocs\tintuc-ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-29 03:33:31 --> Invalid file: pages/pages.php
+#0 E:\XAMPP\htdocs\tintuc-ci4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/pages.php')
+#1 E:\XAMPP\htdocs\tintuc-ci4\system\Common.php(1097): CodeIgniter\View\View->render('pages/pages', Array, true)
+#2 E:\XAMPP\htdocs\tintuc-ci4\app\Controllers\Pages.php(23): view('pages/pages')
+#3 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(824): App\Controllers\Pages->showme('pages', 'showme', 'about')
+#4 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#5 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\XAMPP\htdocs\tintuc-ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}

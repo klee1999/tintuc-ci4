@@ -18,7 +18,7 @@ class Pages extends BaseController
         //     throw new \CodeIgniter\Exceptions\PageNotFoundException($page);
         // }
         echo view('include/header'); 
-        echo view('include/sidebar');
+       // echo view('include/sidebar');
        
         echo view('pages/'.$page);
         echo view('include/footer');

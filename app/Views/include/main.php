@@ -1,3 +1,4 @@
+<section>
 <div class="col-sm-8">
     <h2>Danh sách bài viết</h2>
     <?php foreach($data as $row){ ?>
@@ -7,3 +8,4 @@
 
     <?php } ?>
 </div>
+</section>

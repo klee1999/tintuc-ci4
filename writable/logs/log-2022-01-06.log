@@ -1,0 +1,256 @@
+CRITICAL - 2022-01-06 01:10:33 --> Undefined variable $model
+#0 E:\XAMPP\htdocs\tintuc-ci4\app\Controllers\Pages.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\XAMPP\\htdocs...', 10)
+#1 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(824): App\Controllers\Pages->index()
+#2 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#3 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\XAMPP\htdocs\tintuc-ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-06 01:31:12 --> Undefined variable $model
+#0 E:\XAMPP\htdocs\tintuc-ci4\app\Controllers\Pages.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\XAMPP\\htdocs...', 10)
+#1 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(824): App\Controllers\Pages->index()
+#2 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#3 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\XAMPP\htdocs\tintuc-ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-06 01:31:17 --> Invalid file: pages/sao thế nhỉ.php
+#0 E:\XAMPP\htdocs\tintuc-ci4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/sao th\xE1\xBA\xBF...')
+#1 E:\XAMPP\htdocs\tintuc-ci4\system\Common.php(1097): CodeIgniter\View\View->render('pages/sao th\xE1\xBA\xBF...', Array, true)
+#2 E:\XAMPP\htdocs\tintuc-ci4\app\Controllers\Pages.php(31): view('pages/sao th\xE1\xBA\xBF...')
+#3 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(824): App\Controllers\Pages->showme('sao th\xE1\xBA\xBF nh\xE1\xBB\x89')
+#4 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#5 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\XAMPP\htdocs\tintuc-ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-06 01:44:54 --> Invalid file: pages/sao thế nhỉ.php
+#0 E:\XAMPP\htdocs\tintuc-ci4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/sao th\xE1\xBA\xBF...')
+#1 E:\XAMPP\htdocs\tintuc-ci4\system\Common.php(1097): CodeIgniter\View\View->render('pages/sao th\xE1\xBA\xBF...', Array, true)
+#2 E:\XAMPP\htdocs\tintuc-ci4\app\Controllers\Pages.php(31): view('pages/sao th\xE1\xBA\xBF...')
+#3 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(824): App\Controllers\Pages->showme('sao th\xE1\xBA\xBF nh\xE1\xBB\x89')
+#4 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#5 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\XAMPP\htdocs\tintuc-ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-06 19:44:38 --> Undefined variable $model
+#0 E:\XAMPP\htdocs\tintuc-ci4\app\Controllers\Pages.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\XAMPP\\htdocs...', 10)
+#1 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(824): App\Controllers\Pages->index()
+#2 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#3 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\XAMPP\htdocs\tintuc-ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-06 19:44:38 --> Undefined variable $model
+#0 E:\XAMPP\htdocs\tintuc-ci4\app\Controllers\Pages.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\XAMPP\\htdocs...', 10)
+#1 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(824): App\Controllers\Pages->index()
+#2 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#3 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\XAMPP\htdocs\tintuc-ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-06 19:44:59 --> Invalid file: pages/dá.php
+#0 E:\XAMPP\htdocs\tintuc-ci4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/d\xC3\xA1.php')
+#1 E:\XAMPP\htdocs\tintuc-ci4\system\Common.php(1097): CodeIgniter\View\View->render('pages/d\xC3\xA1', Array, true)
+#2 E:\XAMPP\htdocs\tintuc-ci4\app\Controllers\Pages.php(31): view('pages/d\xC3\xA1')
+#3 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(824): App\Controllers\Pages->showme('d\xC3\xA1')
+#4 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#5 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\XAMPP\htdocs\tintuc-ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-06 19:46:25 --> Invalid file: pages/dá.php
+#0 E:\XAMPP\htdocs\tintuc-ci4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/d\xC3\xA1.php')
+#1 E:\XAMPP\htdocs\tintuc-ci4\system\Common.php(1097): CodeIgniter\View\View->render('pages/d\xC3\xA1', Array, true)
+#2 E:\XAMPP\htdocs\tintuc-ci4\app\Controllers\Pages.php(31): view('pages/d\xC3\xA1')
+#3 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(824): App\Controllers\Pages->showme('d\xC3\xA1')
+#4 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#5 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\XAMPP\htdocs\tintuc-ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-06 19:46:25 --> Invalid file: pages/css.php
+#0 E:\XAMPP\htdocs\tintuc-ci4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/css.php')
+#1 E:\XAMPP\htdocs\tintuc-ci4\system\Common.php(1097): CodeIgniter\View\View->render('pages/css', Array, true)
+#2 E:\XAMPP\htdocs\tintuc-ci4\app\Controllers\Pages.php(31): view('pages/css')
+#3 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(824): App\Controllers\Pages->showme('css', 'style.css')
+#4 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#5 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\XAMPP\htdocs\tintuc-ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-06 19:46:25 --> Invalid file: pages/img.php
+#0 E:\XAMPP\htdocs\tintuc-ci4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/img.php')
+#1 E:\XAMPP\htdocs\tintuc-ci4\system\Common.php(1097): CodeIgniter\View\View->render('pages/img', Array, true)
+#2 E:\XAMPP\htdocs\tintuc-ci4\app\Controllers\Pages.php(31): view('pages/img')
+#3 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(824): App\Controllers\Pages->showme('img', 'HYTV_logo_2020....')
+#4 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#5 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\XAMPP\htdocs\tintuc-ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-06 19:46:26 --> Invalid file: pages/img.php
+#0 E:\XAMPP\htdocs\tintuc-ci4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/img.php')
+#1 E:\XAMPP\htdocs\tintuc-ci4\system\Common.php(1097): CodeIgniter\View\View->render('pages/img', Array, true)
+#2 E:\XAMPP\htdocs\tintuc-ci4\app\Controllers\Pages.php(31): view('pages/img')
+#3 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(824): App\Controllers\Pages->showme('img', 'HYTV_logo_2020....')
+#4 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#5 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\XAMPP\htdocs\tintuc-ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-06 19:47:13 --> Invalid file: pages/dá.php
+#0 E:\XAMPP\htdocs\tintuc-ci4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/d\xC3\xA1.php')
+#1 E:\XAMPP\htdocs\tintuc-ci4\system\Common.php(1097): CodeIgniter\View\View->render('pages/d\xC3\xA1', Array, true)
+#2 E:\XAMPP\htdocs\tintuc-ci4\app\Controllers\Pages.php(31): view('pages/d\xC3\xA1')
+#3 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(824): App\Controllers\Pages->showme('d\xC3\xA1')
+#4 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#5 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\XAMPP\htdocs\tintuc-ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-06 19:47:13 --> Invalid file: pages/css.php
+#0 E:\XAMPP\htdocs\tintuc-ci4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/css.php')
+#1 E:\XAMPP\htdocs\tintuc-ci4\system\Common.php(1097): CodeIgniter\View\View->render('pages/css', Array, true)
+#2 E:\XAMPP\htdocs\tintuc-ci4\app\Controllers\Pages.php(31): view('pages/css')
+#3 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(824): App\Controllers\Pages->showme('css', 'style.css')
+#4 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#5 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\XAMPP\htdocs\tintuc-ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-06 19:47:13 --> Invalid file: pages/img.php
+#0 E:\XAMPP\htdocs\tintuc-ci4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/img.php')
+#1 E:\XAMPP\htdocs\tintuc-ci4\system\Common.php(1097): CodeIgniter\View\View->render('pages/img', Array, true)
+#2 E:\XAMPP\htdocs\tintuc-ci4\app\Controllers\Pages.php(31): view('pages/img')
+#3 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(824): App\Controllers\Pages->showme('img', 'HYTV_logo_2020....')
+#4 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#5 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\XAMPP\htdocs\tintuc-ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-06 19:47:13 --> Invalid file: pages/img.php
+#0 E:\XAMPP\htdocs\tintuc-ci4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/img.php')
+#1 E:\XAMPP\htdocs\tintuc-ci4\system\Common.php(1097): CodeIgniter\View\View->render('pages/img', Array, true)
+#2 E:\XAMPP\htdocs\tintuc-ci4\app\Controllers\Pages.php(31): view('pages/img')
+#3 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(824): App\Controllers\Pages->showme('img', 'HYTV_logo_2020....')
+#4 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#5 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\XAMPP\htdocs\tintuc-ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-06 19:47:18 --> Invalid file: pages/css.php
+#0 E:\XAMPP\htdocs\tintuc-ci4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/css.php')
+#1 E:\XAMPP\htdocs\tintuc-ci4\system\Common.php(1097): CodeIgniter\View\View->render('pages/css', Array, true)
+#2 E:\XAMPP\htdocs\tintuc-ci4\app\Controllers\Pages.php(31): view('pages/css')
+#3 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(824): App\Controllers\Pages->showme('css', 'style.css')
+#4 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#5 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\XAMPP\htdocs\tintuc-ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-06 19:49:34 --> Invalid file: pages/dá.php
+#0 E:\XAMPP\htdocs\tintuc-ci4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/d\xC3\xA1.php')
+#1 E:\XAMPP\htdocs\tintuc-ci4\system\Common.php(1097): CodeIgniter\View\View->render('pages/d\xC3\xA1', Array, true)
+#2 E:\XAMPP\htdocs\tintuc-ci4\app\Controllers\Pages.php(31): view('pages/d\xC3\xA1')
+#3 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(824): App\Controllers\Pages->showme('d\xC3\xA1')
+#4 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#5 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\XAMPP\htdocs\tintuc-ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-06 19:49:34 --> Invalid file: pages/img.php
+#0 E:\XAMPP\htdocs\tintuc-ci4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/img.php')
+#1 E:\XAMPP\htdocs\tintuc-ci4\system\Common.php(1097): CodeIgniter\View\View->render('pages/img', Array, true)
+#2 E:\XAMPP\htdocs\tintuc-ci4\app\Controllers\Pages.php(31): view('pages/img')
+#3 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(824): App\Controllers\Pages->showme('img', 'HYTV_logo_2020....')
+#4 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#5 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\XAMPP\htdocs\tintuc-ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-06 19:49:35 --> Invalid file: pages/img.php
+#0 E:\XAMPP\htdocs\tintuc-ci4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/img.php')
+#1 E:\XAMPP\htdocs\tintuc-ci4\system\Common.php(1097): CodeIgniter\View\View->render('pages/img', Array, true)
+#2 E:\XAMPP\htdocs\tintuc-ci4\app\Controllers\Pages.php(31): view('pages/img')
+#3 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(824): App\Controllers\Pages->showme('img', 'HYTV_logo_2020....')
+#4 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#5 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\XAMPP\htdocs\tintuc-ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-06 19:50:00 --> Invalid file: pages/dá.php
+#0 E:\XAMPP\htdocs\tintuc-ci4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/d\xC3\xA1.php')
+#1 E:\XAMPP\htdocs\tintuc-ci4\system\Common.php(1097): CodeIgniter\View\View->render('pages/d\xC3\xA1', Array, true)
+#2 E:\XAMPP\htdocs\tintuc-ci4\app\Controllers\Pages.php(31): view('pages/d\xC3\xA1')
+#3 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(824): App\Controllers\Pages->showme('d\xC3\xA1')
+#4 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#5 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\XAMPP\htdocs\tintuc-ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-06 19:50:54 --> Invalid file: pages/showme.php
+#0 E:\XAMPP\htdocs\tintuc-ci4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/showme.ph...')
+#1 E:\XAMPP\htdocs\tintuc-ci4\system\Common.php(1097): CodeIgniter\View\View->render('pages/showme', Array, true)
+#2 E:\XAMPP\htdocs\tintuc-ci4\app\Controllers\Pages.php(31): view('pages/showme')
+#3 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(824): App\Controllers\Pages->showme('showme')
+#4 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#5 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\XAMPP\htdocs\tintuc-ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-06 19:51:57 --> Invalid file: include/home.php
+#0 E:\XAMPP\htdocs\tintuc-ci4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('include/home.ph...')
+#1 E:\XAMPP\htdocs\tintuc-ci4\system\Common.php(1097): CodeIgniter\View\View->render('include/home', Array, true)
+#2 E:\XAMPP\htdocs\tintuc-ci4\app\Controllers\Pages.php(12): view('include/home')
+#3 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(824): App\Controllers\Pages->index()
+#4 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#5 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\XAMPP\htdocs\tintuc-ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-06 19:55:33 --> Undefined variable $conn
+#0 E:\XAMPP\htdocs\tintuc-ci4\app\Views\pages\home.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\XAMPP\\htdocs...', 22)
+#1 E:\XAMPP\htdocs\tintuc-ci4\system\View\View.php(214): include('E:\\XAMPP\\htdocs...')
+#2 E:\XAMPP\htdocs\tintuc-ci4\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 E:\XAMPP\htdocs\tintuc-ci4\system\Common.php(1097): CodeIgniter\View\View->render('pages/home', Array, true)
+#4 E:\XAMPP\htdocs\tintuc-ci4\app\Controllers\Pages.php(12): view('pages/home')
+#5 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(824): App\Controllers\Pages->index()
+#6 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#7 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\XAMPP\htdocs\tintuc-ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-06 19:56:01 --> Undefined variable $conn
+#0 E:\XAMPP\htdocs\tintuc-ci4\app\Views\pages\home.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\XAMPP\\htdocs...', 22)
+#1 E:\XAMPP\htdocs\tintuc-ci4\system\View\View.php(214): include('E:\\XAMPP\\htdocs...')
+#2 E:\XAMPP\htdocs\tintuc-ci4\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 E:\XAMPP\htdocs\tintuc-ci4\system\Common.php(1097): CodeIgniter\View\View->render('pages/home', Array, true)
+#4 E:\XAMPP\htdocs\tintuc-ci4\app\Controllers\Pages.php(12): view('pages/home')
+#5 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(824): App\Controllers\Pages->index()
+#6 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#7 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\XAMPP\htdocs\tintuc-ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-06 19:56:02 --> Undefined variable $conn
+#0 E:\XAMPP\htdocs\tintuc-ci4\app\Views\pages\home.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\XAMPP\\htdocs...', 22)
+#1 E:\XAMPP\htdocs\tintuc-ci4\system\View\View.php(214): include('E:\\XAMPP\\htdocs...')
+#2 E:\XAMPP\htdocs\tintuc-ci4\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 E:\XAMPP\htdocs\tintuc-ci4\system\Common.php(1097): CodeIgniter\View\View->render('pages/home', Array, true)
+#4 E:\XAMPP\htdocs\tintuc-ci4\app\Controllers\Pages.php(12): view('pages/home')
+#5 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(824): App\Controllers\Pages->index()
+#6 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#7 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\XAMPP\htdocs\tintuc-ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-06 19:56:03 --> Undefined variable $conn
+#0 E:\XAMPP\htdocs\tintuc-ci4\app\Views\pages\home.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\XAMPP\\htdocs...', 22)
+#1 E:\XAMPP\htdocs\tintuc-ci4\system\View\View.php(214): include('E:\\XAMPP\\htdocs...')
+#2 E:\XAMPP\htdocs\tintuc-ci4\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 E:\XAMPP\htdocs\tintuc-ci4\system\Common.php(1097): CodeIgniter\View\View->render('pages/home', Array, true)
+#4 E:\XAMPP\htdocs\tintuc-ci4\app\Controllers\Pages.php(12): view('pages/home')
+#5 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(824): App\Controllers\Pages->index()
+#6 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#7 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\XAMPP\htdocs\tintuc-ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-06 20:41:09 --> Undefined variable $conn
+#0 E:\XAMPP\htdocs\tintuc-ci4\app\Views\pages\home.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\XAMPP\\htdocs...', 22)
+#1 E:\XAMPP\htdocs\tintuc-ci4\system\View\View.php(214): include('E:\\XAMPP\\htdocs...')
+#2 E:\XAMPP\htdocs\tintuc-ci4\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 E:\XAMPP\htdocs\tintuc-ci4\system\Common.php(1097): CodeIgniter\View\View->render('pages/home', Array, true)
+#4 E:\XAMPP\htdocs\tintuc-ci4\app\Controllers\Pages.php(12): view('pages/home')
+#5 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(824): App\Controllers\Pages->index()
+#6 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#7 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\XAMPP\htdocs\tintuc-ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-06 21:24:28 --> Undefined variable $conn
+#0 E:\XAMPP\htdocs\tintuc-ci4\app\Views\pages\home.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\XAMPP\\htdocs...', 22)
+#1 E:\XAMPP\htdocs\tintuc-ci4\system\View\View.php(214): include('E:\\XAMPP\\htdocs...')
+#2 E:\XAMPP\htdocs\tintuc-ci4\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 E:\XAMPP\htdocs\tintuc-ci4\system\Common.php(1097): CodeIgniter\View\View->render('pages/home', Array, true)
+#4 E:\XAMPP\htdocs\tintuc-ci4\app\Controllers\Pages.php(12): view('pages/home')
+#5 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(824): App\Controllers\Pages->index()
+#6 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#7 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\XAMPP\htdocs\tintuc-ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}

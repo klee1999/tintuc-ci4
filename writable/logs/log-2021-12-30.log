@@ -1,0 +1,18 @@
+CRITICAL - 2021-12-30 19:07:54 --> Invalid file: pages/showme.php
+#0 E:\XAMPP\htdocs\tintuc-ci4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/showme.ph...')
+#1 E:\XAMPP\htdocs\tintuc-ci4\system\Common.php(1097): CodeIgniter\View\View->render('pages/showme', Array, true)
+#2 E:\XAMPP\htdocs\tintuc-ci4\app\Controllers\Pages.php(23): view('pages/showme')
+#3 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(824): App\Controllers\Pages->showme('showme')
+#4 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#5 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\XAMPP\htdocs\tintuc-ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-30 19:07:57 --> Invalid file: pages/h.php
+#0 E:\XAMPP\htdocs\tintuc-ci4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/h.php')
+#1 E:\XAMPP\htdocs\tintuc-ci4\system\Common.php(1097): CodeIgniter\View\View->render('pages/h', Array, true)
+#2 E:\XAMPP\htdocs\tintuc-ci4\app\Controllers\Pages.php(23): view('pages/h')
+#3 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(824): App\Controllers\Pages->showme('h')
+#4 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#5 E:\XAMPP\htdocs\tintuc-ci4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\XAMPP\htdocs\tintuc-ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
